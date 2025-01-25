@@ -1,0 +1,5 @@
+com/example/jobapp/entity/Job.class
+com/example/jobapp/controller/JobController.class
+com/example/jobapp/JobappApplication.class
+com/example/jobapp/repository/JobRepository.class
+com/example/jobapp/service/JobService.class
